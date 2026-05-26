@@ -277,6 +277,10 @@ display:block;
   opacity: 0.75;
 }
 
+.sub_page_read p{
+font-size:18px;
+}
+
 .pc_br{
 display:none !important;
 }
