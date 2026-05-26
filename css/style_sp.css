@@ -72,8 +72,8 @@ vertical-align:top;
 
 .link_inner_tbl_imgcell img{
 display:block;
-width:auto;
-height:100%;
+width:100%;
+height:auto;
 margin:0 auto;
 }
 
