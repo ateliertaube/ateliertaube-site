@@ -121,6 +121,14 @@ color:#d4b572;
 margin-top:10px;
 }
 
+.item_name_sub{
+display:block;
+font-size:16px;
+line-height:1.6;
+color:#d4b572;
+margin-top:10px;
+}
+
 .item_read{
 display:block;
 font-size:22px;
@@ -145,12 +153,21 @@ line-height:1.6;
 color:#d4b572;
 }
 
+.item_name_sub_en{
+font-family: Georgia, serif;
+display:block;
+font-size:16px;
+line-height:1.6;
+color:#d4b572;
+margin-top:5px;
+}
+
 .item_read_en{
 font-family: Georgia, serif;
 display:block;
 font-size:16px;
 line-height:1.6;
-margin-top:10px;
+margin-top:20px;
 color:#d4b572;
 }
 
