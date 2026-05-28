@@ -306,6 +306,10 @@ display:block;
 margin-top:10px;
 }
 
+.img_wrap + .img_wrap{
+margin-top:10px;
+}
+
 .pc_br{
 display:none !important;
 }
