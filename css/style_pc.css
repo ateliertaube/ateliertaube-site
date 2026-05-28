@@ -338,6 +338,14 @@ color:#ffffff;
 font-size:18px;
 }
 
+.sub_note{
+font-size:14px;
+line-height:1.4;
+color:#ffffff;
+display:block;
+margin-top:10px;
+}
+
 .pc_br{
 display:inline !important;
 }
